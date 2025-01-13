@@ -1,2 +1,2 @@
 # js-dom-1
-Esercizio 12/01
+Esercizio 10/01
